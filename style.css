@@ -12,6 +12,7 @@ body {
   width: 100vw;
   overflow-x: hidden;
   padding: 0px;
+  background-color: pink;
 }
 nav {
   position: absolute;
